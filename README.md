@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben Mert Uğur 👋
 
-<!--
-**mertugur44/mertugur44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yeni mezun bir Yazılım Mühendisiyim. Yazılım geliştirme ve test, veri analizi, yapay zekâ, dijital ürün geliştirme ve FinTech alanlarında proje ve staj deneyimine sahibim.
 
-Here are some ideas to get you started:
+Projelerimi ve akademik çalışmalarımı yakın zamanda GitHub profilime ekliyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Mert Uğur 👋
+
+I'm a recent Software Engineering graduate with project and internship experience in software development and testing, data analysis, artificial intelligence, digital product development, and FinTech.
+
+I'm currently adding my projects and academic work to my GitHub profile.
+
+<a href="https://www.linkedin.com/in/mertugur4416/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mert%20Uğur-0A66C2?logo=linkedin&logoColor=white" />
+</a>
